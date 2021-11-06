@@ -1,0 +1,11 @@
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\bin\Debug\netcoreapp3.1\Puzzle19.exe
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\bin\Debug\netcoreapp3.1\Puzzle19.deps.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\bin\Debug\netcoreapp3.1\Puzzle19.runtimeconfig.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\bin\Debug\netcoreapp3.1\Puzzle19.runtimeconfig.dev.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\bin\Debug\netcoreapp3.1\Puzzle19.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\bin\Debug\netcoreapp3.1\Puzzle19.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\obj\Debug\netcoreapp3.1\Puzzle19.AssemblyInfoInputs.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\obj\Debug\netcoreapp3.1\Puzzle19.AssemblyInfo.cs
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\obj\Debug\netcoreapp3.1\Puzzle19.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\obj\Debug\netcoreapp3.1\Puzzle19.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle19\obj\Debug\netcoreapp3.1\Puzzle19.csprojAssemblyReference.cache

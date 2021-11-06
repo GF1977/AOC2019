@@ -1,0 +1,13 @@
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\bin\Debug\netcoreapp3.1\Puzzle22.exe
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\bin\Debug\netcoreapp3.1\Puzzle22.deps.json
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\bin\Debug\netcoreapp3.1\Puzzle22.runtimeconfig.json
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\bin\Debug\netcoreapp3.1\Puzzle22.runtimeconfig.dev.json
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\bin\Debug\netcoreapp3.1\Puzzle22.dll
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\bin\Debug\netcoreapp3.1\Puzzle22.pdb
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\obj\Debug\netcoreapp3.1\Puzzle22.AssemblyInfoInputs.cache
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\obj\Debug\netcoreapp3.1\Puzzle22.AssemblyInfo.cs
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\obj\Debug\netcoreapp3.1\Puzzle22.csproj.CoreCompileInputs.cache
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\obj\Debug\netcoreapp3.1\Puzzle22.dll
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\obj\Debug\netcoreapp3.1\Puzzle22.pdb
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\obj\Debug\netcoreapp3.1\Puzzle22.genruntimeconfig.cache
+C:\GIT\GF1977\.NET Core\Santa\Puzzle22\Puzzle22\Puzzle22\obj\Debug\netcoreapp3.1\Puzzle22.csprojAssemblyReference.cache

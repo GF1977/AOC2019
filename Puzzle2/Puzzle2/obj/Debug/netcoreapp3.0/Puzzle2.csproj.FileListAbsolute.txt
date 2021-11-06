@@ -1,0 +1,11 @@
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\bin\Debug\netcoreapp3.0\Puzzle2.exe
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\bin\Debug\netcoreapp3.0\Puzzle2.deps.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\bin\Debug\netcoreapp3.0\Puzzle2.runtimeconfig.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\bin\Debug\netcoreapp3.0\Puzzle2.runtimeconfig.dev.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\bin\Debug\netcoreapp3.0\Puzzle2.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\bin\Debug\netcoreapp3.0\Puzzle2.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\obj\Debug\netcoreapp3.0\Puzzle2.AssemblyInfoInputs.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\obj\Debug\netcoreapp3.0\Puzzle2.AssemblyInfo.cs
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\obj\Debug\netcoreapp3.0\Puzzle2.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\obj\Debug\netcoreapp3.0\Puzzle2.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle2\Puzzle2\obj\Debug\netcoreapp3.0\Puzzle2.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\bin\Debug\netcoreapp3.1\Puzzle16.exe
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\bin\Debug\netcoreapp3.1\Puzzle16.deps.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\bin\Debug\netcoreapp3.1\Puzzle16.runtimeconfig.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\bin\Debug\netcoreapp3.1\Puzzle16.runtimeconfig.dev.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\bin\Debug\netcoreapp3.1\Puzzle16.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\bin\Debug\netcoreapp3.1\Puzzle16.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\obj\Debug\netcoreapp3.1\Puzzle16.csprojAssemblyReference.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\obj\Debug\netcoreapp3.1\Puzzle16.AssemblyInfoInputs.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\obj\Debug\netcoreapp3.1\Puzzle16.AssemblyInfo.cs
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\obj\Debug\netcoreapp3.1\Puzzle16.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle16\Puzzle16\obj\Debug\netcoreapp3.1\Puzzle16.pdb

@@ -1,0 +1,17 @@
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\obj\Debug\netcoreapp3.1\Puzzle15.csprojAssemblyReference.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\obj\Debug\netcoreapp3.1\Puzzle15.AssemblyInfoInputs.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\obj\Debug\netcoreapp3.1\Puzzle15.AssemblyInfo.cs
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\Puzzle15.exe
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\Puzzle15.deps.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\Puzzle15.runtimeconfig.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\Puzzle15.runtimeconfig.dev.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\Puzzle15.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\Puzzle15.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\obj\Debug\netcoreapp3.1\Puzzle15.csproj.CopyComplete
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\obj\Debug\netcoreapp3.1\Puzzle15.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle15\Puzzle15\obj\Debug\netcoreapp3.1\Puzzle15.pdb

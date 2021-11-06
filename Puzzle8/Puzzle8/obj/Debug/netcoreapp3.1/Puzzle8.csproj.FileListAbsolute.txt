@@ -1,0 +1,11 @@
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\bin\Debug\netcoreapp3.1\Puzzle8.exe
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\bin\Debug\netcoreapp3.1\Puzzle8.deps.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\bin\Debug\netcoreapp3.1\Puzzle8.runtimeconfig.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\bin\Debug\netcoreapp3.1\Puzzle8.runtimeconfig.dev.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\bin\Debug\netcoreapp3.1\Puzzle8.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\bin\Debug\netcoreapp3.1\Puzzle8.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\obj\Debug\netcoreapp3.1\Puzzle8.csprojAssemblyReference.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\obj\Debug\netcoreapp3.1\Puzzle8.AssemblyInfoInputs.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\obj\Debug\netcoreapp3.1\Puzzle8.AssemblyInfo.cs
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\obj\Debug\netcoreapp3.1\Puzzle8.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle8\Puzzle8\obj\Debug\netcoreapp3.1\Puzzle8.pdb

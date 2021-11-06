@@ -1,0 +1,6 @@
+C:\GIT\GF1977\.NET Core\Santa\Puzzle23\bin\Debug\ConsoleApplication.exe
+C:\GIT\GF1977\.NET Core\Santa\Puzzle23\bin\Debug\ConsoleApplication.pdb
+C:\GIT\GF1977\.NET Core\Santa\Puzzle23\obj\x86\Debug\Puzzle23.csprojAssemblyReference.cache
+C:\GIT\GF1977\.NET Core\Santa\Puzzle23\obj\x86\Debug\Puzzle23.csproj.CoreCompileInputs.cache
+C:\GIT\GF1977\.NET Core\Santa\Puzzle23\obj\x86\Debug\ConsoleApplication.exe
+C:\GIT\GF1977\.NET Core\Santa\Puzzle23\obj\x86\Debug\ConsoleApplication.pdb

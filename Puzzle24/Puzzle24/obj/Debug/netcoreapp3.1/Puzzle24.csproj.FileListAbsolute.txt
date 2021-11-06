@@ -1,0 +1,13 @@
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\obj\Debug\netcoreapp3.1\Puzzle24.csprojAssemblyReference.cache
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\obj\Debug\netcoreapp3.1\Puzzle24.AssemblyInfoInputs.cache
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\obj\Debug\netcoreapp3.1\Puzzle24.AssemblyInfo.cs
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\obj\Debug\netcoreapp3.1\Puzzle24.csproj.CoreCompileInputs.cache
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\bin\Debug\netcoreapp3.1\Puzzle24.exe
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\bin\Debug\netcoreapp3.1\Puzzle24.deps.json
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\bin\Debug\netcoreapp3.1\Puzzle24.runtimeconfig.json
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\bin\Debug\netcoreapp3.1\Puzzle24.runtimeconfig.dev.json
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\bin\Debug\netcoreapp3.1\Puzzle24.dll
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\bin\Debug\netcoreapp3.1\Puzzle24.pdb
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\obj\Debug\netcoreapp3.1\Puzzle24.dll
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\obj\Debug\netcoreapp3.1\Puzzle24.pdb
+C:\GIT\GF1977\.NET Core\Santa\Puzzle24\Puzzle24\obj\Debug\netcoreapp3.1\Puzzle24.genruntimeconfig.cache

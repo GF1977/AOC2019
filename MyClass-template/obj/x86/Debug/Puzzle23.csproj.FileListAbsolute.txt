@@ -1,0 +1,2 @@
+C:\GIT\GF1977\.NET Core\Santa\MyClass-template\obj\x86\Debug\Puzzle23.csprojAssemblyReference.cache
+C:\GIT\GF1977\.NET Core\Santa\MyClass-template\obj\x86\Debug\Puzzle23.csproj.CoreCompileInputs.cache

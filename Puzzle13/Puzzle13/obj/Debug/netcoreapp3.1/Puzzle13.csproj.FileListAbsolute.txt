@@ -1,0 +1,17 @@
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\Puzzle13.exe
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\Puzzle13.deps.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\Puzzle13.runtimeconfig.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\Puzzle13.runtimeconfig.dev.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\Puzzle13.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\Puzzle13.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\obj\Debug\netcoreapp3.1\Puzzle13.csprojAssemblyReference.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\obj\Debug\netcoreapp3.1\Puzzle13.AssemblyInfoInputs.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\obj\Debug\netcoreapp3.1\Puzzle13.AssemblyInfo.cs
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\obj\Debug\netcoreapp3.1\Puzzle13.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\obj\Debug\netcoreapp3.1\Puzzle13.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle13\Puzzle13\obj\Debug\netcoreapp3.1\Puzzle13.csproj.CopyComplete

@@ -1,0 +1,11 @@
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\bin\Debug\netcoreapp3.0\Puzzle4.exe
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\bin\Debug\netcoreapp3.0\Puzzle4.deps.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\bin\Debug\netcoreapp3.0\Puzzle4.runtimeconfig.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\bin\Debug\netcoreapp3.0\Puzzle4.runtimeconfig.dev.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\bin\Debug\netcoreapp3.0\Puzzle4.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\bin\Debug\netcoreapp3.0\Puzzle4.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\obj\Debug\netcoreapp3.0\Puzzle4.AssemblyInfoInputs.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\obj\Debug\netcoreapp3.0\Puzzle4.AssemblyInfo.cs
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\obj\Debug\netcoreapp3.0\Puzzle4.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\obj\Debug\netcoreapp3.0\Puzzle4.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle4\Puzzle4\obj\Debug\netcoreapp3.0\Puzzle4.csprojAssemblyReference.cache

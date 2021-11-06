@@ -1,0 +1,11 @@
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\bin\Debug\netcoreapp3.0\Puzzle5.exe
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\bin\Debug\netcoreapp3.0\Puzzle5.deps.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\bin\Debug\netcoreapp3.0\Puzzle5.runtimeconfig.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\bin\Debug\netcoreapp3.0\Puzzle5.runtimeconfig.dev.json
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\bin\Debug\netcoreapp3.0\Puzzle5.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\bin\Debug\netcoreapp3.0\Puzzle5.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\obj\Debug\netcoreapp3.0\Puzzle5.AssemblyInfoInputs.cache
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\obj\Debug\netcoreapp3.0\Puzzle5.AssemblyInfo.cs
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\obj\Debug\netcoreapp3.0\Puzzle5.dll
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\obj\Debug\netcoreapp3.0\Puzzle5.pdb
+U:\GIT\GF1977\.NET Core\Santa\Puzzle5\Puzzle5\obj\Debug\netcoreapp3.0\Puzzle5.csprojAssemblyReference.cache
