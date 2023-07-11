@@ -15,3 +15,22 @@ U:\GIT\GF1977\.NET Core\Santa\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\runtimes
 U:\GIT\GF1977\.NET Core\Santa\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 U:\GIT\GF1977\.NET Core\Santa\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.csprojAssemblyReference.cache
 U:\GIT\GF1977\.NET Core\Santa\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.csproj.CopyComplete
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\Puzzle11.exe
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\Puzzle11.deps.json
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\Puzzle11.runtimeconfig.json
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\Puzzle11.runtimeconfig.dev.json
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\Puzzle11.dll
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\Puzzle11.pdb
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.AssemblyInfoInputs.cache
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.AssemblyInfo.cs
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.csproj.CoreCompileInputs.cache
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.csproj.CopyComplete
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.dll
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.pdb
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\obj\Debug\netcoreapp3.1\Puzzle11.genruntimeconfig.cache
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\iopya\Source\Repos\GF1977\AOC2019\Puzzle11\Puzzle11\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

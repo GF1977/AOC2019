@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using MyClasses;
@@ -40,6 +41,8 @@ namespace Puzzle11
             Int64[] Arguments = { 0, 0 }; // color , direction
             int i = 0;
             int nPaintedPanel = 0;
+            
+
 
             Image image = new Bitmap(1400, 1400);
             Graphics graph = Graphics.FromImage(image);
@@ -83,7 +86,18 @@ namespace Puzzle11
             while (nStep <= commands.Count && nStep > 0);
 
             image.Save("myImage.png", System.Drawing.Imaging.ImageFormat.Png);
+
+            new Process
+            {
+                StartInfo = new ProcessStartInfo(@"myImage.png")
+                {
+                    UseShellExecute = true
+                }
+            }.Start();
+
+
             Console.WriteLine("Painting is finished: panels painetd {0}", nPaintedPanel);
+            
         }
 
         public static void DrawRectangleRectangle(Graphics graph, int X, int Y, Int64 Color)
